@@ -119,3 +119,8 @@ Version 2.0 was demonstrated to the client in October 2026. It adds the faster p
 ## Notice
 
 MicroVision is a Microtech Systems product. Its source code, PLC programs and client data are proprietary and not included. All rights reserved.
+
+---
+
+**Nikunj Tank** — Computer Vision & Industrial Automation Engineer, Ahmedabad
+[LinkedIn](https://linkedin.com/in/nikunjtank1) · ntank41@gmail.com
